@@ -8,8 +8,7 @@ También se requiere la funcionalidad para vender propiedades y registrar los de
 El sistema debe ser capaz de manejar múltiples propiedades, clientes, agentes, contratos, pagos y citas.
 
 ### Solución
-![Solucion Inmobiliaria](
-.png)
+![Solucion Inmobiliaria](solucion.png)
 
 ###Relaciones
 1. Relación de asociación entre `Inmobiliaria` y `Propiedad`: La inmobiliaria tiene una lista de propiedades. Se representa como una asociación unidireccional desde `Inmobiliaria` hacia `Propiedad`.
